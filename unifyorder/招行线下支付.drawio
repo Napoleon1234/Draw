@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-28T09:21:18.934Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="UCsOHY--DOFvTn5j1HSE" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-28T09:53:45.518Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="l-AITRuyvSNu7DwG07Pu" version="16.1.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1330" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -40,9 +40,6 @@
         <mxCell id="Su-YwAsmCwrDfq2_HWXV-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Su-YwAsmCwrDfq2_HWXV-10" target="Su-YwAsmCwrDfq2_HWXV-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Su-YwAsmCwrDfq2_HWXV-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Su-YwAsmCwrDfq2_HWXV-10" target="Su-YwAsmCwrDfq2_HWXV-34">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Su-YwAsmCwrDfq2_HWXV-10" value="检测币" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="540" y="360" width="120" height="60" as="geometry" />
         </mxCell>
@@ -58,6 +55,9 @@
           <mxGeometry x="340" y="350" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Su-YwAsmCwrDfq2_HWXV-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Su-YwAsmCwrDfq2_HWXV-15" target="Su-YwAsmCwrDfq2_HWXV-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Su-YwAsmCwrDfq2_HWXV-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Su-YwAsmCwrDfq2_HWXV-15" target="Su-YwAsmCwrDfq2_HWXV-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Su-YwAsmCwrDfq2_HWXV-15" value="交易会员余额" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -112,14 +112,20 @@
         <mxCell id="Su-YwAsmCwrDfq2_HWXV-34" value="消费" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="540" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Su-YwAsmCwrDfq2_HWXV-37" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="340" y="620" width="120" height="60" as="geometry" />
+        <mxCell id="Su-YwAsmCwrDfq2_HWXV-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Su-YwAsmCwrDfq2_HWXV-37" target="Su-YwAsmCwrDfq2_HWXV-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Su-YwAsmCwrDfq2_HWXV-37" value="检测币退款" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="340" y="590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Su-YwAsmCwrDfq2_HWXV-38" value="检测币作废，&lt;br&gt;线下协商退款" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="30" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Su-YwAsmCwrDfq2_HWXV-40" value="否" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="100" y="330" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Su-YwAsmCwrDfq2_HWXV-42" value="只能原路退回到绑定的付款方卡号上" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="340" y="680" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
