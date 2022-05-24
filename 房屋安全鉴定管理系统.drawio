@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-24T08:40:08.391Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="Oj86MQPydJwcggsqYjVP" version="18.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-24T08:42:47.107Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="Aw2tRIAarhpeL9K7HaWp" version="18.0.8" type="github">
   <diagram id="qpHJCxcwcaYMZpSIbfGM" name="Page-1">
     <mxGraphModel dx="1718" dy="935" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,35 +8,35 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="12VAQ8Nin5VYsXPCudkx-1" value="检测机构注册" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="150" width="100" height="60" as="geometry" />
+          <mxGeometry x="163" y="120" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="12VAQ8Nin5VYsXPCudkx-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="12VAQ8Nin5VYsXPCudkx-2" target="12VAQ8Nin5VYsXPCudkx-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="180" y="105" />
+              <mxPoint x="183" y="75" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="12VAQ8Nin5VYsXPCudkx-2" value="企业信息、资质" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="80" width="60" height="50" as="geometry" />
+          <mxGeometry x="53" y="50" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="12VAQ8Nin5VYsXPCudkx-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="12VAQ8Nin5VYsXPCudkx-4" target="12VAQ8Nin5VYsXPCudkx-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="12VAQ8Nin5VYsXPCudkx-4" value="人员信息、证书" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="155" width="60" height="50" as="geometry" />
+          <mxGeometry x="53" y="125" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="12VAQ8Nin5VYsXPCudkx-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="12VAQ8Nin5VYsXPCudkx-6" target="12VAQ8Nin5VYsXPCudkx-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="12VAQ8Nin5VYsXPCudkx-6" value="主管部门审批" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="343" y="150" width="100" height="60" as="geometry" />
+          <mxGeometry x="346" y="120" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="12VAQ8Nin5VYsXPCudkx-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="12VAQ8Nin5VYsXPCudkx-7" target="12VAQ8Nin5VYsXPCudkx-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="560" y="100" />
-              <mxPoint x="210" y="100" />
+              <mxPoint x="563" y="70" />
+              <mxPoint x="213" y="70" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -44,16 +44,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="12VAQ8Nin5VYsXPCudkx-7" value="是否通过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="150" width="80" height="60" as="geometry" />
+          <mxGeometry x="523" y="120" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="12VAQ8Nin5VYsXPCudkx-11" value="未通过，修改资料并重新提交" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="295" y="70" width="170" height="20" as="geometry" />
+          <mxGeometry x="298" y="40" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="12VAQ8Nin5VYsXPCudkx-12" value="企业可管理&lt;br&gt;人员信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="150" width="100" height="60" as="geometry" />
+          <mxGeometry x="673" y="120" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="12VAQ8Nin5VYsXPCudkx-14" value="通过" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="610" y="155" width="40" height="20" as="geometry" />
+          <mxGeometry x="613" y="125" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="12VAQ8Nin5VYsXPCudkx-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="12VAQ8Nin5VYsXPCudkx-15" target="12VAQ8Nin5VYsXPCudkx-16">
           <mxGeometry relative="1" as="geometry" />
@@ -280,6 +280,12 @@
         </mxCell>
         <mxCell id="12VAQ8Nin5VYsXPCudkx-130" value="&lt;span style=&quot;&quot;&gt;发起&lt;/span&gt;&lt;span style=&quot;&quot;&gt;大&lt;br&gt;排查计划&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="325" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="12VAQ8Nin5VYsXPCudkx-131" value="企业审核流程" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="18" y="20" width="782" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="12VAQ8Nin5VYsXPCudkx-132" value="危房排查流程" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="18" y="220" width="782" height="940" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
