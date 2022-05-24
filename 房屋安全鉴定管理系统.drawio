@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-24T08:30:29.042Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="Asgi5miur6TlEz-uiKh0" version="18.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-24T08:30:58.269Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="Z1JjxZufppn9_5PX1Vku" version="18.0.8" type="github">
   <diagram id="qpHJCxcwcaYMZpSIbfGM" name="Page-1">
     <mxGraphModel dx="1718" dy="935" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -272,8 +272,8 @@
         <mxCell id="12VAQ8Nin5VYsXPCudkx-108" value="通过" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="1110" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="12VAQ8Nin5VYsXPCudkx-111" value="将检测机构根据" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="250" width="100" height="20" as="geometry" />
+        <mxCell id="12VAQ8Nin5VYsXPCudkx-111" value="检测机构关联区域" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="338" y="250" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
