@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-24T07:45:12.336Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="E_TB4o4NFeOYI-R1mBK3" version="18.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-24T08:30:29.042Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="Asgi5miur6TlEz-uiKh0" version="18.0.8" type="github">
   <diagram id="qpHJCxcwcaYMZpSIbfGM" name="Page-1">
     <mxGraphModel dx="1718" dy="935" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -139,7 +139,7 @@
         <mxCell id="12VAQ8Nin5VYsXPCudkx-28" value="A、B两级&lt;br&gt;只做记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="580" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="12VAQ8Nin5VYsXPCudkx-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="12VAQ8Nin5VYsXPCudkx-30" target="12VAQ8Nin5VYsXPCudkx-82">
+        <mxCell id="12VAQ8Nin5VYsXPCudkx-112" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="12VAQ8Nin5VYsXPCudkx-30" target="12VAQ8Nin5VYsXPCudkx-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="12VAQ8Nin5VYsXPCudkx-30" value="C、D两级房屋" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -149,7 +149,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="12VAQ8Nin5VYsXPCudkx-32" value="出具鉴定报告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="556" y="790" width="100" height="60" as="geometry" />
+          <mxGeometry x="556" y="720" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="12VAQ8Nin5VYsXPCudkx-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="12VAQ8Nin5VYsXPCudkx-34" target="12VAQ8Nin5VYsXPCudkx-41">
           <mxGeometry relative="1" as="geometry" />
@@ -186,13 +186,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="12VAQ8Nin5VYsXPCudkx-55" value="鉴定及闭环" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="660" width="396" height="500" as="geometry" />
+          <mxGeometry x="410" y="660" width="396" height="500" as="geometry" />
         </mxCell>
         <mxCell id="12VAQ8Nin5VYsXPCudkx-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="12VAQ8Nin5VYsXPCudkx-57" target="12VAQ8Nin5VYsXPCudkx-32">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="688" y="920" />
-              <mxPoint x="688" y="820" />
+              <mxPoint x="688" y="750" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -210,7 +210,7 @@
           <mxGeometry x="566" y="890" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="12VAQ8Nin5VYsXPCudkx-60" value="有异议，&lt;br&gt;主管部门&lt;br&gt;组织复核" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="688" y="840" width="60" height="50" as="geometry" />
+          <mxGeometry x="690" y="800" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="12VAQ8Nin5VYsXPCudkx-65" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;发起&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;大排查计划&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="320" width="60" height="40" as="geometry" />
@@ -234,12 +234,6 @@
         </mxCell>
         <mxCell id="12VAQ8Nin5VYsXPCudkx-73" value="按照要求上报&lt;br&gt;排查汇总表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="960" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="12VAQ8Nin5VYsXPCudkx-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="12VAQ8Nin5VYsXPCudkx-82" target="12VAQ8Nin5VYsXPCudkx-32">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="12VAQ8Nin5VYsXPCudkx-82" value="申请房屋鉴定" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="556" y="680" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="12VAQ8Nin5VYsXPCudkx-88" value="管理专家库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="525" width="100" height="60" as="geometry" />
