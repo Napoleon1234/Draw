@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2022-12-23T05:44:21.832Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="MTxrOwaDSnrSAAnU6Jwd" type="github"><diagram id="hugb44t5Sq9hoUhFR5xb">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-23T06:01:35.506Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="umGxso88mr9Kp1qwbbR2" type="github">
+  <diagram id="tNEIv_4zjgN_p1-3S2Gl" name="第 1 页">
+    <mxGraphModel dx="2016" dy="1911" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="n3LdWqnE_Uwc-1f-1GCr-2" value="路线分配流程" style="swimlane;startSize=20;horizontal=1;containerType=tree;" vertex="1" parent="1">
+          <mxGeometry x="-800" y="-1160" width="760" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="n3LdWqnE_Uwc-1f-1GCr-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="n3LdWqnE_Uwc-1f-1GCr-2" source="n3LdWqnE_Uwc-1f-1GCr-17" target="n3LdWqnE_Uwc-1f-1GCr-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n3LdWqnE_Uwc-1f-1GCr-17" value="管养单位管理员" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="n3LdWqnE_Uwc-1f-1GCr-2">
+          <mxGeometry x="68" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n3LdWqnE_Uwc-1f-1GCr-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="n3LdWqnE_Uwc-1f-1GCr-2" source="n3LdWqnE_Uwc-1f-1GCr-18" target="n3LdWqnE_Uwc-1f-1GCr-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n3LdWqnE_Uwc-1f-1GCr-18" value="路段信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="n3LdWqnE_Uwc-1f-1GCr-2">
+          <mxGeometry x="288" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n3LdWqnE_Uwc-1f-1GCr-20" value="操作" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="n3LdWqnE_Uwc-1f-1GCr-2">
+          <mxGeometry x="208" y="60" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n3LdWqnE_Uwc-1f-1GCr-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="n3LdWqnE_Uwc-1f-1GCr-2" source="n3LdWqnE_Uwc-1f-1GCr-21" target="n3LdWqnE_Uwc-1f-1GCr-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n3LdWqnE_Uwc-1f-1GCr-21" value="巡查人员" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="n3LdWqnE_Uwc-1f-1GCr-2">
+          <mxGeometry x="518" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n3LdWqnE_Uwc-1f-1GCr-23" value="分配" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="n3LdWqnE_Uwc-1f-1GCr-2">
+          <mxGeometry x="438" y="60" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n3LdWqnE_Uwc-1f-1GCr-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="n3LdWqnE_Uwc-1f-1GCr-2" source="n3LdWqnE_Uwc-1f-1GCr-24" target="n3LdWqnE_Uwc-1f-1GCr-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n3LdWqnE_Uwc-1f-1GCr-24" value="结构物" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="n3LdWqnE_Uwc-1f-1GCr-2">
+          <mxGeometry x="288" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n3LdWqnE_Uwc-1f-1GCr-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="n3LdWqnE_Uwc-1f-1GCr-2" source="n3LdWqnE_Uwc-1f-1GCr-27" target="n3LdWqnE_Uwc-1f-1GCr-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n3LdWqnE_Uwc-1f-1GCr-27" value="APP巡查时&lt;br&gt;也可以添加" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="n3LdWqnE_Uwc-1f-1GCr-2">
+          <mxGeometry x="518" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
